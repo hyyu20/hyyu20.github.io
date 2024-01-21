@@ -1,13 +1,14 @@
 ---
-title: '第一篇博客'
+title: "第一篇博客"
 date: 2024-01-21
-tags: [chat]
+tags: [evo]
 ---
 
 ## Hello, world!
 
-「而每当你开始去思考，我要怎么赚钱，我要做这个做那个，赚到多少钱的时候。你发现了吗？感觉就消失了！你什么都感觉不到了。只有脑子里的一些运算过程」
+hahahahahahahhahahahahahahahahahahahahahahahahahahahahahahahahahhahahhahahahahahahahahahahahahaha
 
-——学霸猫
+han 某人也有自己的博客了
 
-当我在计算写文章的得失的时候，我写文章的那个感觉就消失了。
+「我从寒武而来，带着进化的密码」
+
