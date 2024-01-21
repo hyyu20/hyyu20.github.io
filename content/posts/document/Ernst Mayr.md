@@ -11,7 +11,7 @@ title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen
-style="eight:100%;width:100%; aspect-ratio: 16 / 9;">
+style="height:100%;width:100%; aspect-ratio: 16 / 9;">
 </iframe>
 
 ## 原文
