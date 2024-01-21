@@ -1,6 +1,5 @@
 ---
-UID: "{{date}}"
-title: 
+title: ""
 date: "{{time}}"
 tags: []
 ---
