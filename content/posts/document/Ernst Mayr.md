@@ -1,7 +1,7 @@
 ---
 title: "Ernst Mayr 采访视频翻译01"
 date: 2024-01-21
-tags: [evo]
+tags: [evolution]
 ---
 
 <iframe
