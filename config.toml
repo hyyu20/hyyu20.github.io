@@ -1,7 +1,7 @@
-baseURL = 'https://lillianwho.com/'
+baseURL = 'https://hyyu20-github-io.pages.dev/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = '夜猫日记'
+title = '来自寒武的寒'
 
 # 主题
 theme  =  "hello-friend"
@@ -18,15 +18,15 @@ rssLimit = 5
 
 [menu]
   [[menu.main]]
-  name="读书"
-  url="/posts/reading/"
+  name="学习"
+  url="/posts/learn/"
   weight="1"
   [[menu.main]]
-  name="Obsidian"
-  url="/posts/obsidian/"
+  name="记录"
+  url="/posts/document/"
   weight="2"
   [[menu.main]]
-  name="闲聊"
+  name="碎片"
   url="/posts/chat/"
   weight="3"
   [[menu.main]]

@@ -1,4 +1,4 @@
 ---
-title: "obsidian"
-slug: "obsidian"
+title: "记录"
+slug: "document"
 ---
